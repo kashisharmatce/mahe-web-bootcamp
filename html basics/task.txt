@@ -1,0 +1,3 @@
+1.  Create Index.html and create list of 3 topics
+2. Create a separate information page for topic 
+and link it with index.html

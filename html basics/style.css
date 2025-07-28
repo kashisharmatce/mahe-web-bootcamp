@@ -1,0 +1,23 @@
+h1, h2 {
+                    font-family: cursive;
+                    color: rebeccapurple;
+                    font-style: italic;
+                    font-size: 50px;
+                    background-color: orange;
+                    margin: 60px 20px 10px 5px;
+                    padding: 20px;
+            }
+
+.name {
+   font-family: cursive;
+                    color: red;
+                    font-style: italic;
+                    font-size: 50px;
+                    background-color: orange;
+                    margin: 60px 20px 10px 5px;
+                    padding: 20px;
+}
+
+#place {
+    background-color: red;
+}
