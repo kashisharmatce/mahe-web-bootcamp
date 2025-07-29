@@ -3,18 +3,25 @@
         <title>GRID</title>
         <style>
             .grid{
-                display: grid;
+                display: inline-grid;
                 grid-template-columns: auto auto auto;
+                grid-template-rows: auto auto auto;
+                background-color: aqua; 
+                
             }
 
             .item {
                 width: 50px;
                 height: 50px;
-                background-color: gray;
+                background-color: red;
                 color: black;
-                border-radius: 100px;
-                padding: 10px;
-                align-content: center;
+                font-size: 40px;
+            
+            }
+            .item3{
+                grid-row: 1 / span 3;
+                grid-column: 3;
+                background-color: blue;
             }
         </style>
     </head>
@@ -22,14 +29,14 @@
         <div class="grid">
             <div class="item">1</div>
             <div class="item">2</div>
-            <div class="item">3</div>
-            <div>4</div>
-            <div>5</div>
-            <div>6</div>
-            <div>7</div>
-            <div>8</div>
-            <div>9</div>
-            <div>0</div>
+            <div class="item3">3</div>
+            <div class="item">4</div>
+            <div class="item">5</div>
+            <div class="item">6</div>
+            <div class="item">7</div>
+            <div class="item">8</div>
+            <div class="item">9</div>
+            <div class="item">0</div>
         </div>
     </body>
 </html>
