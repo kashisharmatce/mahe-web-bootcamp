@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<head>
+    <title>CSS - Animations</title>
+    <style>
+        .ball{
+            background-color: grey;
+            border-radius: 100%;
+            width: 50px;
+            height: 50px;
+            /* transition: width 4s, height 4s; */
+            /* animations : style, @keyframes */
+            animation : bouncing 0.7s infinite ease alternate-reverse;
+        }
+        @keyframes bouncing{
+            0% {
+                transform : translateY(0px);
+                box-shadow : 0 0 10px rgb(153, 153, 153);
+            }
+            100%{
+                transform : translateY(60px);
+                box-shadow : 0 5px 7px black;
+            }
+        }
+       /* .transition:hover{
+            width: 90px;
+            height: 90px;
+            border-radius: 100%;
+            text-align: center;
+            align-content: center;
+            /* justify-content: center; 
+            background-color: rgb(42, 41, 41);
+        } */
+    </style>
+</head>
+<body>
+    <div class="ball">
+        <!-- <img src="robo.png" alt="img" width="30px" height="40px"> -->
+    </div>
+</body>
+</html>

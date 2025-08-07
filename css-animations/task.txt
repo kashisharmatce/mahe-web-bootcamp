@@ -1,0 +1,7 @@
+Try Activites :-> (duration-15 mins)
+
+1. Fading Text In and Out : opacity
+
+2. Button Hover Bounce - Zoom-in-out: Transform(Scale)
+
+3. Rainbow Background Animation : Background-color

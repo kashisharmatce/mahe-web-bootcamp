@@ -1,0 +1,39 @@
+js is dynamically types lang 
+js : async 
+js : interactivity  (dynamic)
+
+
+
+
+
+
+
+
+DOM : Document Object Model
+modification/update - html 
+edit, delete, add new data
+
+1. DOM - Methods : to access the js inside html
+2. DOM - Properties : to modify code
+3. Events 
+
+
+Methods: 
+tagName , className, idName 
+
+
+
+
+
+
+
+Activities to try :
+1. 🤩 Magic Sentence Revealer when hover on text
+
+2. 😏 Fishy Compliment Generator for your friend 
+        can use : Math.floor(), Math.random() 
+
+3. 👽 Zombie Name Generator when clicked on button
+
+4. ⚙️ Light to Dark Mode converter when click on btn 
+       css : document.method().style.property 
