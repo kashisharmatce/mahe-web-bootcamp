@@ -112,6 +112,29 @@ function fun(a, b){
     // logic
     return a+b
 }
-console.log(fun(2,3))
-console.log(fun(3,4))
-console.log(fun(10,20))
+// console.log(fun(2,3))
+// console.log(fun(3,4))
+// console.log(fun(10,20))
+
+
+
+// for...of - Use to loop over strings and arrays.
+// for...in - Use to loop over objects.
+
+// For in loop:
+const str = "Hello World";
+
+for(element of str) {
+  console.log(element);
+}
+// output : H E L L O W O R L D
+
+const student = {
+    registration: "123456",
+    name: "Sandeep",
+    age: 33,
+}
+
+for(key in student) {
+  console.log(key, student[key]);
+}
