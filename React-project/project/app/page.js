@@ -12,12 +12,14 @@
 //     </div>
 //   )
 // }
-import NewApp from "./NewApp";
+// import NewApp from "./NewApp";
+// import TodoList from "./TodoList";
+import Activity from "./Activity";
 
 export default function page() {
   return (
     <>
-      <NewApp />
+      <Activity />
     </>
   );
 }

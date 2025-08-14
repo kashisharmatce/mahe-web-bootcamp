@@ -1,0 +1,6 @@
+Create a To-Do List App using React that allows users to 
+manage their daily tasks.
+
+1. Add new tasks
+2. Display Task List
+3. Delete Tasks 
