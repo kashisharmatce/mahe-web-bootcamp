@@ -1,0 +1,35 @@
+Exercise : 
+step 1. Create new React-app : npx create-next-app
+step 2. Create a Single Web-page using react-javascript
+step 3. Choose a topic
+        - Calculator
+        - Registration/Login Form
+        - Shopping Cart 
+        - Notes App
+        - Any-Game
+step 4. Install Bootstrap : npm i react-bootstrap bootstrap
+step 5. Use bootstrap components and react components to complete 
+        exercise.
+Note : Import Bootstrap CSS
+     : import 'bootstrap/dist/css/bootstrap.min.css';
+
+
+
+
+Assignment - 2
+
+1. Shopping cart webapp for your faV brand
+2. Nutrition Meter (calorie tracker)
+3. Game using React.javascript
+4. Clone of any website, eg : flipkart, Ajio, MCdonald's..etc
+5. Chat Application
+
+
+
+
+
+
+
+
+
+

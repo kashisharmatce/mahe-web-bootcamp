@@ -37,3 +37,27 @@ Activities to try :
 
 4. ⚙️ Light to Dark Mode converter when click on btn 
        css : document.method().style.property 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
