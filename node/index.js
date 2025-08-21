@@ -4,6 +4,9 @@
 // 3. third-party m : install n use!
 // const {sum, abc} = require('./sum')
 
+// const requestedUrl = req.url;
+// /////////////res.end('Hello! You requested: ' + requestedUrl);
+    
 // console.log('the sum is:', sum(2,3))
 // abc()
 
